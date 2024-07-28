@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beardster
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP and HTML.
+- 🌱 I’m currently learning Python, PHP and HTML.
 - 💞️ I’m looking to collaborate on game development process.
 - 📫 How to reach me ---> d.jatautas@gmail.com
 
