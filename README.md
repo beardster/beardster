@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beardster
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Python, PHP and HTML.
-- 💞️ I’m looking to collaborate on game development process.
+- 👋 Hi, I’m @aviatoR
+- 👀 I’m interested in malware analysis, threat hunting and AI automation.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on projects related to malware analysis and threat defense.
 - 📫 How to reach me ---> d.jatautas@gmail.com
 
 <!---
