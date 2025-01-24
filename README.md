@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aviatoR
+- 👋 Hi, I’m @beardster
 - 👀 I’m interested in malware analysis, threat hunting and AI automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects related to malware analysis and threat defense.
